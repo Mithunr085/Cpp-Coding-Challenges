@@ -13,7 +13,7 @@ int main()
     }
     for (int i = 0; i < n; i++)
     {
-        cout << (arr[i] * 10) + (arr[i] + 2) << " ";
+        cout << (arr[i] * 10) + (arr[i] + 2) << " ";// formula for computation 
     }
     return 0;
 }
