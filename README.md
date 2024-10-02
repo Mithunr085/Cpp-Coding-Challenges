@@ -1,5 +1,5 @@
 # Cpp-Coding-Challenges
-Here u can find Mix of questions where u can master your programming skills through online portals
+Here u can find Mix of questions where u can improve your programming skills through online portals
 
 <h3>Arrays</h3>
 <ul>
